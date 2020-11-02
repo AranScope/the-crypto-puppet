@@ -1,4 +1,9 @@
+# IDE files
 .idea
+tmp/
+
+# Sensitive environment variables
+*.env
 
 # Binaries for programs and plugins
 *.exe

@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"go-make-me-rich/errors"
+	"github.com/AranScope/the-crypto-puppet/errors"
 	"io"
 	"io/ioutil"
 	"net/http"
